@@ -35,6 +35,7 @@ TypeScript | JavaScript | NestJS | React | MongoDB | Docker | Telegram API | Git
     </td>
   </tr>
 </table>
+
 ---
 
 ### 🤝 Let's Connect
@@ -43,10 +44,14 @@ TypeScript | JavaScript | NestJS | React | MongoDB | Docker | Telegram API | Git
 <a href="https://www.linkedin.com/in/ihorhnennyi" target="_blank">LinkedIn</a> |
 <a href="mailto:your.email@example.com">Email</a>
 
+---
+
 ### 🚀 Featured Projects
 
 - 🔧 [**stix_cash_back**](https://github.com/ihorhnennyi/stix_cash_back) – Backend for managing users and transactions (NestJS + MongoDB)
 - 🧩 [**admin_panel_riseup**](https://github.com/ihorhnennyi/admin_panel_riseup) – CRM system with analytics and access control
+
+---
 
 ### 🧰 Languages & Tools
 
@@ -55,4 +60,3 @@ TypeScript | JavaScript | NestJS | React | MongoDB | Docker | Telegram API | Git
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-
