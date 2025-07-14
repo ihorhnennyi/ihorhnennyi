@@ -52,13 +52,8 @@ TypeScript | JavaScript | NestJS | React | MongoDB | Docker | Telegram API | Git
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 
-![Visitors](https://komarev.com/ghpvc/?username=ihorhnennyi&style=flat-square&color=blue)
-
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ihorhnennyi/ihorhnennyi/output/github-contribution-grid-snake.svg" />
-</p>
