@@ -33,13 +33,13 @@ TypeScript | JavaScript | NestJS | React | MongoDB | Docker | Telegram API | Git
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihorhnennyi&theme=github-dark" alt="Streak Stats" />
     </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihorhnennyi&layout=compact&theme=github_dark" alt="Top Languages" />
+    </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihorhnennyi&theme=github-dark" alt="Contribution Graph" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihorhnennyi&layout=compact&theme=github_dark" alt="Top Languages" />
     </td>
   </tr>
 </table>
