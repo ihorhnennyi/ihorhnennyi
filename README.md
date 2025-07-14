@@ -22,45 +22,37 @@ TypeScript | JavaScript | NestJS | React | MongoDB | Docker | Telegram API | Git
 ```
 
 ---
-
 ## 📊 GitHub Insights
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ihorhnennyi&show_icons=true&theme=github_dark" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihorhnennyi&theme=github-dark" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihorhnennyi&layout=compact&theme=github_dark" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihorhnennyi&theme=github-dark" alt="Contribution Graph" /> </p>
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ihorhnennyi&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihorhnennyi&theme=github-dark" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihorhnennyi&layout=compact&theme=github_dark" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihorhnennyi&theme=github-dark" alt="Contribution Graph" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ihorhnennyi&theme=darkhub&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
-## 📊 GitHub Insights
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ihorhnennyi&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihorhnennyi&theme=github-dark" alt="Streak Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihorhnennyi&layout=compact&theme=github_dark" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihorhnennyi&theme=github-dark" alt="Contribution Graph" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ihorhnennyi&theme=github-dark&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
