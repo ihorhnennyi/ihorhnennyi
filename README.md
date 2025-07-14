@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Ihor</h1>
 
-<!--
-**ihorhnennyi/ihorhnennyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🧑‍🏫 Software Engineer & Educator | 🚀 Fullstack Developer | 🧠 AI & Automation Enthusiast
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- I specialize in teaching programming and guiding students from their first lines of code to confident, production-ready development.
+- I build practical solutions, including CRM systems, admin panels, Telegram bots, and API integrations.
+- I continuously improve my skills and stay current with emerging technologies.
+- Open to collaboration on impactful and technically challenging projects.
+
+---
+
+### 🛠️ Tech Stack
+
+```ts
+TypeScript | JavaScript | NestJS | React | MongoDB | Docker | Telegram API | Git
