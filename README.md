@@ -1,7 +1,10 @@
-<h1 align="center">👋 Hi, I'm Ihor</h1>
-
-> “I don't just teach code — I teach how to think like a developer.”  
+<h1 align="center">
+  👋 Hi, I'm Ihor
+  > “I don't just teach code — I teach how to think like a developer.”  
 > — Ihor
+</h1>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+Educator;Fullstack+Developer;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
