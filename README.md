@@ -25,26 +25,16 @@ TypeScript | JavaScript | NestJS | React | MongoDB | Docker | Telegram API | Git
 ## 📊 GitHub Insights
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ihorhnennyi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" width="45%" style="margin: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ihorhnennyi&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=ffffff" alt="GitHub Streak" width="45%" style="margin: 10px;"/>
+</div>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ihorhnennyi&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihorhnennyi&theme=github-dark" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihorhnennyi&layout=compact&theme=github_dark" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihorhnennyi&theme=github-dark" alt="Contribution Graph" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihorhnennyi&theme=github-dark&hide_border=true" alt="Contribution Graph" width="95%" style="margin-top: 20px;"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihorhnennyi&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="50%" style="margin-top: 20px;"/>
 </div>
 
 ---
