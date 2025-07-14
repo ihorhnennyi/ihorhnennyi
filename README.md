@@ -13,14 +13,25 @@
 ### 🧠 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,css" height="50" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,bash" height="45"/>
 </p>
+
+---
 
 ### ⚙️ Frameworks & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nestjs,mongodb,docker,git,linkedin" height="50" style="margin-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=react,nestjs,nodejs,express,mongodb,postgres,nextjs" height="45"/>
 </p>
+
+---
+
+### 🧰 DevOps & Workflow
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,nginx" height="45"/>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
