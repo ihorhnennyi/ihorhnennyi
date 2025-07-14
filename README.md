@@ -38,18 +38,35 @@ TypeScript | JavaScript | NestJS | React | MongoDB | Docker | Telegram API | Git
 
 ---
 
+### 🚀 My Key Projects
+
+| Name | Description | Stack |
+|------|-------------|-------|
+| [stix_cash_back](https://github.com/ihorhnennyi/stix_cash_back) | Backend system for managing users, transactions, and documents | `NestJS`, `MongoDB`, `Swagger`, `Google Drive` |
+| [admin_panel_riseup](https://github.com/ihorhnennyi/admin_panel_riseup) | CRM system with dashboards, analytics, and access control | `React`, `Material UI`, `TypeScript` |
+| [server-bot](https://github.com/ihorhnennyi/server-bot) | Telegram bot to manage servers via SSH | `Telegraf`, `Node.js`, `PM2` |
+
+---
+
+### 🎯 2025 Goals
+
+- Launch 3+ production-ready backend platforms
+- Release a complete Telegram automation tool
+- Mentor 100+ students through practical coding
+
+---
+
+### 🧠 My Approach
+
+I focus on building scalable and clean architecture, writing readable code, and delivering practical value — not just code, but real solutions.
+
+---
+
 ### 🤝 Let's Connect
 
 <a href="https://t.me/hnennyi" target="_blank">Telegram</a> |
 <a href="https://www.linkedin.com/in/ihorhnennyi" target="_blank">LinkedIn</a> |
 <a href="mailto:your.email@example.com">Email</a>
-
----
-
-### 🚀 Featured Projects
-
-- 🔧 [**stix_cash_back**](https://github.com/ihorhnennyi/stix_cash_back) – Backend for managing users and transactions (NestJS + MongoDB)
-- 🧩 [**admin_panel_riseup**](https://github.com/ihorhnennyi/admin_panel_riseup) – CRM system with analytics and access control
 
 ---
 
@@ -60,3 +77,10 @@ TypeScript | JavaScript | NestJS | React | MongoDB | Docker | Telegram API | Git
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+
+---
+
+### 🚀 Ready to collaborate?
+
+Let’s build something impactful together.  
+📩 [Message me on Telegram](https://t.me/hnennyi) or [connect via LinkedIn](https://linkedin.com/in/ihorhnennyi)
