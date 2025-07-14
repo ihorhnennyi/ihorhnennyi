@@ -26,12 +26,14 @@ TypeScript | JavaScript | NestJS | React | MongoDB | Docker | Telegram API | Git
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihorhnennyi&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ihorhnennyi&show_icons=true&theme=github_dark" 
+       alt="GitHub Stats" 
+       style="display: inline-block; vertical-align: top;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihorhnennyi&theme=github-dark" 
+       alt="GitHub Streak" 
+       style="display: inline-block; vertical-align: top;" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihorhnennyi&theme=github-dark" alt="GitHub Streak" />
-</p>
 
 ---
 
