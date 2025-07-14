@@ -55,3 +55,7 @@ TypeScript | JavaScript | NestJS | React | MongoDB | Docker | Telegram API | Git
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ihorhnennyi/ihorhnennyi/output/github-contribution-grid-snake.svg" />
+</p>
