@@ -1,8 +1,4 @@
-<h1 align="center">
-  👋 Hi, I'm Ihor
-  > “I don't just teach code — I teach how to think like a developer.”  
-> — Ihor
-</h1>
+<h1 align="center">👋 Hi, I'm Ihor</h1>
 
 
 
@@ -10,9 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+Educator;Fullstack+Developer;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ihorhnennyi&label=Profile+views&color=blueviolet&style=flat" alt="view count"/>
-</p>
+> “I don't just teach code — I teach how to think like a developer.”  
+> — Ihor
 
 ---
 
