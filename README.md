@@ -42,3 +42,9 @@ TypeScript | JavaScript | NestJS | React | MongoDB | Docker | Telegram API | Git
 <a href="https://t.me/hnennyi" target="_blank">Telegram</a> |
 <a href="https://www.linkedin.com/in/ihorhnennyi" target="_blank">LinkedIn</a> |
 <a href="mailto:your.email@example.com">Email</a>
+
+### 🚀 Featured Projects
+
+- 🔧 [**stix_cash_back**](https://github.com/ihorhnennyi/stix_cash_back) – Backend for managing users and transactions (NestJS + MongoDB)
+- 🧩 [**admin_panel_riseup**](https://github.com/ihorhnennyi/admin_panel_riseup) – CRM system with analytics and access control
+
