@@ -10,16 +10,17 @@
 
 ---
 
+### 🧠 Languages
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,css" height="50" style="margin-right:10px;"/>
 </p>
 
+### ⚙️ Frameworks & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nestjs,mongodb,docker,git,linkedin" height="50" style="margin-right:10px;"/>
+</p>
 ---
 
 ### 👨‍💻 About Me
