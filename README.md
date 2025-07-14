@@ -1,12 +1,9 @@
 <h1 align="center">👋 Hi, I'm Ihor</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer+%26+Educator;Fullstack+Developer+%7C+AI+Enthusiast;Building+Bots%2C+CRMs%2C+Dashboards+and+more..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+Educator;Fullstack+Developer;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  🧑‍🏫 <b>Software Engineer & Educator</b> &nbsp;|&nbsp; 🚀 <b>Fullstack Developer</b> &nbsp;|&nbsp; 🧠 <b>AI & Automation Enthusiast</b>
-</p>
 
 ---
 
