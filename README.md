@@ -10,6 +10,18 @@
 
 ---
 
+### 👨‍💻 About Me
+
+- I specialize in teaching programming and guiding students from their first lines of code to confident, production-ready development.
+- I build practical solutions, including CRM systems, admin panels, Telegram bots, and API integrations.
+- I continuously improve my skills and stay current with emerging technologies.
+- Open to collaboration on impactful and technically challenging projects.
+
+> “I don't just teach code — I teach how to think like a developer.”  
+> — Ihor
+
+---
+
 ### 🧠 Languages
 
 <p align="center">
@@ -31,18 +43,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,nginx" height="45"/>
 </p>
-
----
-
-### 👨‍💻 About Me
-
-- I specialize in teaching programming and guiding students from their first lines of code to confident, production-ready development.
-- I build practical solutions, including CRM systems, admin panels, Telegram bots, and API integrations.
-- I continuously improve my skills and stay current with emerging technologies.
-- Open to collaboration on impactful and technically challenging projects.
-
-> “I don't just teach code — I teach how to think like a developer.”  
-> — Ihor
 
 ---
 
