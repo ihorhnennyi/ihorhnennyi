@@ -19,6 +19,7 @@
 
 ```ts
 TypeScript | JavaScript | NestJS | React | MongoDB | Docker | Telegram API | Git
+```
 
 ---
 
@@ -31,3 +32,11 @@ TypeScript | JavaScript | NestJS | React | MongoDB | Docker | Telegram API | Git
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihorhnennyi&theme=github-dark" alt="GitHub Streak" />
 </p>
+
+---
+
+### 🤝 Let's Connect
+
+<a href="https://t.me/hnennyi" target="_blank">Telegram</a> |
+<a href="https://www.linkedin.com/in/ihorhnennyi" target="_blank">LinkedIn</a> |
+<a href="mailto:your.email@example.com">Email</a>
