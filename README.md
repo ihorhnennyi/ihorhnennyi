@@ -4,6 +4,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+Educator;Fullstack+Developer;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ihorhnennyi&label=Profile+views&color=blueviolet&style=flat" alt="view count"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nestjs,react,mongodb,docker,git,telegram,linkedin" alt="Tech stack icons" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -13,28 +23,24 @@
 - I continuously improve my skills and stay current with emerging technologies.
 - Open to collaboration on impactful and technically challenging projects.
 
----
-
-### 🛠️ Tech Stack
-
-```ts
-TypeScript | JavaScript | NestJS | React | MongoDB | Docker | Telegram API | Git
-```
+> “I don't just teach code — I teach how to think like a developer.”  
+> — Ihor
 
 ---
-## 📊 GitHub Insights
+
+### 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihorhnennyi&theme=github-dark&hide_border=true" alt="Contribution Graph" width="95%" style="margin-top: 20px;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihorhnennyi&theme=github-dark&hide_border=true" alt="Contribution Graph" width="95%" style="margin-top: 20px;" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihorhnennyi&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="50%" style="margin-top: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihorhnennyi&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="50%" style="margin-top: 20px;" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ihorhnennyi&theme=darkhub&no-bg=true&margin-w=15" alt="GitHub Trophies" />
@@ -54,7 +60,7 @@ TypeScript | JavaScript | NestJS | React | MongoDB | Docker | Telegram API | Git
 
 ### 🎯 2025 Goals
 
-- Launch 3+ production-ready backend platforms
+- Launch 8+ production-ready backend platforms
 - Release a complete Telegram automation tool
 - Mentor 100+ students through practical coding
 
@@ -74,17 +80,6 @@ I focus on building scalable and clean architecture, writing readable code, and 
 
 ---
 
-### 🧰 Languages & Tools
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-
----
-
-### 🚀 Ready to collaborate?
-
-Let’s build something impactful together.  
-📩 [Message me on Telegram](https://t.me/hnennyi) or [connect via LinkedIn](https://linkedin.com/in/ihorhnennyi)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Happy+coding!+🚀" alt="footer" />
+</p>
