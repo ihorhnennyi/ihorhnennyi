@@ -25,16 +25,26 @@ TypeScript | JavaScript | NestJS | React | MongoDB | Docker | Telegram API | Git
 
 ### 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ihorhnennyi&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihorhnennyi&theme=github-dark" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ihorhnennyi&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihorhnennyi&theme=github-dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihorhnennyi&theme=github-compact" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihorhnennyi&layout=compact&theme=github_dark" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ihorhnennyi&theme=algolia&no-frame=true" alt="Trophies" />
+</p>
+
 
 ---
 
